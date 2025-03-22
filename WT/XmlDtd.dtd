@@ -1,0 +1,7 @@
+<!ELEMENT cosmetics (employee+)>
+<!ELEMENT product (name, ID, DOB, salary)>
+
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT ID (#PCDATA)>
+<!ELEMENT DOB (#PCDATA)>
+<!ELEMENT salary (#PCDATA)>

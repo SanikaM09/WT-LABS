@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE employee SYSTEM "XmlDtd.dtd">
+<employee>
+<name>Sanika</name>
+<ID>1</ID>
+<DOB>2004</DOB>
+<salary>50000</salary>
+
+<name>Eshika</name>
+<ID>2</ID>
+<DOB>2004</DOB>
+<salary>55000</salary>
+
+<name>Purva</name>
+<ID>3</ID>
+<DOB>2005</DOB>
+<salary>45000</salary>
+
+<name>Yash</name>
+<ID>4</ID>
+<DOB>2004</DOB>
+<salary>24000</salary>
+</employee>
